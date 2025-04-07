@@ -21,7 +21,7 @@ This section contains tools, scripts, and notes for **information gathering** �
 
 - [`subdomain_enum.py`](https://github.com/chouaibkhadraoui/recon/blob/main/subdomain_enum.py)  – Automates subdomain discovery using public APIs  
 - [`passive_recon.py`](https://github.com/chouaibkhadraoui/recon/blob/main/passive_recon.py) – Shell script combining `whois`, `dig`, and `nslookup`  
-- `mass_scan_nmap.sh` – Mass scan targets and export clean reports
+- [`mass_scan_nmap.sh`](https://github.com/chouaibkhadraoui/recon/blob/main/mass_scan_nmap.sh) – Mass scan targets and export clean reports
 
 ---
 
