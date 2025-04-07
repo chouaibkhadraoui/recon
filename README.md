@@ -19,7 +19,7 @@ This section contains tools, scripts, and notes for **information gathering** �
 
 ### 📜 Example Scripts
 
-- `subdomain_enum.py` – Automates subdomain discovery using public APIs  
+- [`subdomain_enum.py`](https://github.com/chouaibkhadraoui/recon/blob/main/subdomain_enum.py)  – Automates subdomain discovery using public APIs  
 - `passive_recon.sh` – Shell script combining `whois`, `dig`, and `nslookup`  
 - `mass_scan_nmap.sh` – Mass scan targets and export clean reports
 
